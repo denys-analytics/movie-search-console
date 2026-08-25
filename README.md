@@ -1,3 +1,6 @@
+<img width="770" height="380" alt="image" src="https://github.com/user-attachments/assets/47c97a25-853a-4642-bf72-6b12b18a26fb" />
+
+ 
  # 🎬 Movie Search Console Application (MongoDB Edition)
 
 A fully interactive console-based application for searching movies, browsing results with pagination, and analyzing user search statistics stored in MongoDB.  
