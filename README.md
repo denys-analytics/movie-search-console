@@ -1,11 +1,35 @@
 <img width="770" height="380" alt="image" src="https://github.com/user-attachments/assets/47c97a25-853a-4642-bf72-6b12b18a26fb" />
 
  
- # 🎬 Movie Search Console Application (MongoDB Edition)
+# Movie Search Console
 
-A fully interactive console-based application for searching movies, browsing results with pagination, and analyzing user search statistics stored in MongoDB.  
-The project uses **MongoDB** both as the main movie database and as the analytics/logging database.  
-Architecture is modular and allows connecting **any database type** (MongoDB, SQL, REST API sources) by replacing the connector module.
+Python-based movie analytics application with MongoDB integration, recommendation engine, and advanced filtering capabilities.
+
+---
+
+## 📊 Overview
+
+This project demonstrates the development of a movie search and recommendation system using Python and MongoDB.
+
+The application allows users to:
+
+- search movies by title
+- filter movies by genre, year, rating, and duration
+- generate movie recommendations
+- analyze movie metadata
+- interact with a MongoDB database
+
+---
+
+## 🎯 Project Goal
+
+Build an interactive application that demonstrates:
+
+- Python programming
+- Database integration
+- Data processing
+- Search algorithms
+- Recommendation logic
 
 ---
 
